@@ -1,0 +1,15 @@
+.ss{
+   font-size: 50px;
+   background-color: gray;
+   height: 40vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+  }
+ #x{
+     margin-right:950px;
+    font-size: 30px;
+    text-align: center;
+   
+ }  
